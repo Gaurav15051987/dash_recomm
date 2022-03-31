@@ -10,3 +10,4 @@ plotly==5.5.0
 sort_dataframeby_monthorweek==0.4
 sorted_months_weekdays==0.2
 gunicorn
+werkzeug==2.0.1
